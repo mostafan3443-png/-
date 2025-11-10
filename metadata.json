@@ -1,0 +1,5 @@
+{
+  "name": "Charity Accounting Software",
+  "description": "A web application for managing the accounting of a charity fund. It tracks income from various sources and expenses across specific categories for financial reporting.",
+  "requestFramePermissions": []
+}
